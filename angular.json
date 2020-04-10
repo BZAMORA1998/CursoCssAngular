@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CursoCssAngular"
+    }
+  },
+  "defaultProject": "CursoCssAngular",
+  "cli": {
+    "analytics": "9aa2e231-a248-4497-82df-584bf0a887bb"
+  }
 }
